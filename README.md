@@ -5,7 +5,7 @@ It can analyze logs from QXDM and show you summarized tables.
 And it provide options to select KPI parameters that you want to analyze.
  - DL/UL BLER/MCS/RB/TB
 
-1. run "TputAnalyzer_ver2.exe"
+1. run "main_Tput_Analyzer.py"
 2. press "open" button and load sample data(.txt) from QXDM.
 3. select the option that you want to analyze.
 
